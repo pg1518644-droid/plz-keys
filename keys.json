@@ -3,7 +3,10 @@
     "Expires": 0,
     "Created": 1735000000,
     "Duration": "Permanente"
-  },|
-|"PLZ-A63R-SYVF-L88X": { "Expires": 0, "Created": 1792083341, "Duration": "Permanente" },
-
+  },
+  "PLZ-A63R-SYVF-L88X": {
+    "Expires": 0,
+    "Created": 1792083341,
+    "Duration": "Permanente"
+  }
 }
